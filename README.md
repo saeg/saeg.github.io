@@ -1,6 +1,6 @@
 ## Welcome to Software Analysis & Experimentation Group
 
-[baduino](https://saeg.github.io/baduino/)
+- [Baduino](https://saeg.github.io/baduino/)
 
 You can use the [editor on GitHub](https://github.com/saeg/saeg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
