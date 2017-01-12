@@ -8,5 +8,6 @@
   </properties>
   <children size='2'>
     <child location='baduino'/>
+    <child location='codeforest'/>
   </children>
 </repository>
