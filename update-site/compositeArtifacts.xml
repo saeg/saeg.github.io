@@ -6,7 +6,7 @@
   <properties size='1'>
     <property name='p2.timestamp' value='4'/>
   </properties>
-  <children size='2'>
+  <children size='3'>
     <child location='baduino'/>
     <child location='codeforest'/>
     <child location='jaguar'/>
