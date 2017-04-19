@@ -9,5 +9,6 @@
   <children size='2'>
     <child location='baduino'/>
     <child location='codeforest'/>
+    <child location='jaguar'/>
   </children>
 </repository>
